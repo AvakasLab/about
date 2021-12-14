@@ -9,7 +9,7 @@ Avakas Lab was found in 2021 by Mr. Morokot Sakal, master of aerospace engineeri
 # Projects
 ## 2021
 ### Reahou-Sat by Team-Reahou (Cambodia)
-12U CubeSat for the Dynamics Loss of Radiation Belts Obvervation Mission
+12U CubeSat mission to study the dynamics loss of radiation belts
 
 ### CanSat Kit for High School
 A development kit for high school CanSat competition using Arduino Nano
