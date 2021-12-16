@@ -1,5 +1,5 @@
 # About Avakas Lab
-Avakas Lab was found in 2021 by Mr. Morokot Sakal, master of aerospace engineering from Tohoku University, aims to promote space research & development in Cambodia, in particular, the application of small satellite.
+Avakas Lab was found in 2021 with aims to promote space research & development in Cambodia, in particular, the application of small satellite.
 
 # What We Do
 * Small Satellite Research & Development for Solving Social-economics Issues in Cambodia
