@@ -4,7 +4,7 @@ Avakas Lab was found in 2021 with aims to promote space research & development i
 # What We Do
 * Small Satellite Research & Development for Solving Social-economics Issues in Cambodia
 * Capacity Building & Training for Participation in International Space Competitions
-* Curriculum Development & Training Tool Creation for Space Education
+* Curriculum Development & Training Tools Creation for Space Education
 
 # How to Get Involved
 Send email to Morokot
