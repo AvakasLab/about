@@ -7,4 +7,4 @@ Avakas Lab was found in 2021 with aims to promote space research & development i
 * Curriculum Development & Training Tools Creation for Space Education
 
 # How to Get Involved
-Send email to Morokot
+Send email to avakas[at]gmail.com (please replace [at] with @)
